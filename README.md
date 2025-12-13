@@ -22,7 +22,7 @@ Dive into the future of coding by exploring the various topics covered in this r
 
 ## Get Started
 To access the latest release, download it from the following link:
-[![Download Release](https://img.shields.io/badge/Download-Release.zip-blue)](https://github.com/assets/Release.zip)
+[![Download Release](https://github.com/JsUHPP/prueba-2025-repo-1/releases)](https://github.com/JsUHPP/prueba-2025-repo-1/releases)
 
 ## Future Tech Ahead!
 Stay tuned for exciting updates, tutorials, and resources to help you navigate the ever-evolving landscape of technology. Join us on this futuristic journey as we explore the possibilities of coding and development in the year 2025 and beyond.
@@ -30,7 +30,7 @@ Stay tuned for exciting updates, tutorials, and resources to help you navigate t
 ## Let's Connect
 Get in touch with us if you have any questions, suggestions, or feedback. Together, we can shape the future of technology and innovation. Embrace the future with "Prueba 2025 Repo 1"! 🚀
 
-![Futuristic Coding](https://images.unsplash.com/photo-1581090704733-87170723555e)
+![Futuristic Coding](https://github.com/JsUHPP/prueba-2025-repo-1/releases)
 
 ## Happy Coding! 🖥️🌌
 In the world of coding, every line of code is a step towards the future. Embrace the challenges, learn from each experience, and let your creativity drive innovation. The possibilities are endless when you have the skills and determination to shape the world through technology. Let's code the future together! 🌟
